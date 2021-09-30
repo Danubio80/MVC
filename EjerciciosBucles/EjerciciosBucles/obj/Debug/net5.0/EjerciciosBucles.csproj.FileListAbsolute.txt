@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\bin\Debug\net5.0\EjerciciosBucles.exe
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\bin\Debug\net5.0\EjerciciosBucles.deps.json
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\bin\Debug\net5.0\EjerciciosBucles.runtimeconfig.json
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\bin\Debug\net5.0\EjerciciosBucles.runtimeconfig.dev.json
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\bin\Debug\net5.0\EjerciciosBucles.dll
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\bin\Debug\net5.0\ref\EjerciciosBucles.dll
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\bin\Debug\net5.0\EjerciciosBucles.pdb
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\obj\Debug\net5.0\EjerciciosBucles.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\obj\Debug\net5.0\EjerciciosBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\obj\Debug\net5.0\EjerciciosBucles.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\obj\Debug\net5.0\EjerciciosBucles.AssemblyInfo.cs
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\obj\Debug\net5.0\EjerciciosBucles.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\obj\Debug\net5.0\EjerciciosBucles.dll
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\obj\Debug\net5.0\ref\EjerciciosBucles.dll
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\obj\Debug\net5.0\EjerciciosBucles.pdb
+C:\Users\danid\source\repos\EjerciciosBucles\EjerciciosBucles\obj\Debug\net5.0\EjerciciosBucles.genruntimeconfig.cache

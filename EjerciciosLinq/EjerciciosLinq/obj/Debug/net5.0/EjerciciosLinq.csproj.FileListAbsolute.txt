@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\net5.0\EjerciciosLinq.exe
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\net5.0\EjerciciosLinq.deps.json
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\net5.0\EjerciciosLinq.runtimeconfig.json
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\net5.0\EjerciciosLinq.runtimeconfig.dev.json
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\net5.0\EjerciciosLinq.dll
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\net5.0\ref\EjerciciosLinq.dll
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\net5.0\EjerciciosLinq.pdb
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\net5.0\EjerciciosLinq.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\net5.0\EjerciciosLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\net5.0\EjerciciosLinq.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\net5.0\EjerciciosLinq.AssemblyInfo.cs
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\net5.0\EjerciciosLinq.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\net5.0\EjerciciosLinq.dll
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\net5.0\ref\EjerciciosLinq.dll
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\net5.0\EjerciciosLinq.pdb
+C:\Users\danid\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\net5.0\EjerciciosLinq.genruntimeconfig.cache

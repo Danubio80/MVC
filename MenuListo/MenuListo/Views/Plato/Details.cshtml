@@ -1,0 +1,37 @@
+﻿@model MenuListo.Models.Plato
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Información para la preparación</h1>
+
+<div>
+    <h4>Esto es lo que debes tener en cuenta</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.descripcion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.descripcion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.pasoapaso)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.pasoapaso)
+        </dd>
+       
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.id">Te gusta de otra manera editala a tu gusto</a> |
+    <a asp-action="Index">O vuelve al Indice</a>
+</div>

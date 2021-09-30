@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\bin\Debug\net5.0\PRACITCAS1.exe
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\bin\Debug\net5.0\PRACITCAS1.deps.json
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\bin\Debug\net5.0\PRACITCAS1.runtimeconfig.json
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\bin\Debug\net5.0\PRACITCAS1.runtimeconfig.dev.json
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\bin\Debug\net5.0\PRACITCAS1.dll
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\bin\Debug\net5.0\ref\PRACITCAS1.dll
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\bin\Debug\net5.0\PRACITCAS1.pdb
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\obj\Debug\net5.0\PRACITCAS1.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\obj\Debug\net5.0\PRACITCAS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\obj\Debug\net5.0\PRACITCAS1.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\obj\Debug\net5.0\PRACITCAS1.AssemblyInfo.cs
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\obj\Debug\net5.0\PRACITCAS1.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\obj\Debug\net5.0\PRACITCAS1.dll
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\obj\Debug\net5.0\ref\PRACITCAS1.dll
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\obj\Debug\net5.0\PRACITCAS1.pdb
+C:\Users\danid\source\repos\PRACITCAS1\PRACITCAS1\obj\Debug\net5.0\PRACITCAS1.genruntimeconfig.cache

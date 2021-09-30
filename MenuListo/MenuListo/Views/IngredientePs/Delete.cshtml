@@ -1,0 +1,27 @@
+﻿@model MenuListo.Models.IngredienteP
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Vacia tu despensa</h1>
+
+<h3>Te has quedado sin un producto o no lo necesitas, eliminalo</h3>
+<div>
+    <h4>Elimina un ingrediente</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Indice</a>
+    </form>
+</div>

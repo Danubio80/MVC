@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\bin\Debug\net5.0\EjerciciosSegundaSemana.exe
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\bin\Debug\net5.0\EjerciciosSegundaSemana.deps.json
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\bin\Debug\net5.0\EjerciciosSegundaSemana.runtimeconfig.json
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\bin\Debug\net5.0\EjerciciosSegundaSemana.runtimeconfig.dev.json
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\bin\Debug\net5.0\EjerciciosSegundaSemana.dll
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\bin\Debug\net5.0\ref\EjerciciosSegundaSemana.dll
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\bin\Debug\net5.0\EjerciciosSegundaSemana.pdb
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\obj\Debug\net5.0\EjerciciosSegundaSemana.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\obj\Debug\net5.0\EjerciciosSegundaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\obj\Debug\net5.0\EjerciciosSegundaSemana.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\obj\Debug\net5.0\EjerciciosSegundaSemana.AssemblyInfo.cs
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\obj\Debug\net5.0\EjerciciosSegundaSemana.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\obj\Debug\net5.0\EjerciciosSegundaSemana.dll
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\obj\Debug\net5.0\ref\EjerciciosSegundaSemana.dll
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\obj\Debug\net5.0\EjerciciosSegundaSemana.pdb
+C:\Users\danid\source\repos\EjerciciosSegundaSemana\EjerciciosSegundaSemana\obj\Debug\net5.0\EjerciciosSegundaSemana.genruntimeconfig.cache

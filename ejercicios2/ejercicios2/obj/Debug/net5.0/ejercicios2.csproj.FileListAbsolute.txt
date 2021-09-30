@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\obj\Debug\net5.0\ejercicios2.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\obj\Debug\net5.0\ejercicios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\obj\Debug\net5.0\ejercicios2.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\obj\Debug\net5.0\ejercicios2.AssemblyInfo.cs
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\obj\Debug\net5.0\ejercicios2.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\bin\Debug\net5.0\ejercicios2.exe
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\bin\Debug\net5.0\ejercicios2.deps.json
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\bin\Debug\net5.0\ejercicios2.runtimeconfig.json
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\bin\Debug\net5.0\ejercicios2.runtimeconfig.dev.json
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\bin\Debug\net5.0\ejercicios2.dll
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\bin\Debug\net5.0\ref\ejercicios2.dll
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\bin\Debug\net5.0\ejercicios2.pdb
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\obj\Debug\net5.0\ejercicios2.dll
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\obj\Debug\net5.0\ref\ejercicios2.dll
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\obj\Debug\net5.0\ejercicios2.pdb
+C:\Users\danid\source\repos\ejercicios2\ejercicios2\obj\Debug\net5.0\ejercicios2.genruntimeconfig.cache

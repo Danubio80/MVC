@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\LinqMio\LinqMio\obj\Debug\net5.0\LinqMio.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\LinqMio\LinqMio\obj\Debug\net5.0\LinqMio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\LinqMio\LinqMio\obj\Debug\net5.0\LinqMio.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\LinqMio\LinqMio\obj\Debug\net5.0\LinqMio.AssemblyInfo.cs
+C:\Users\danid\source\repos\LinqMio\LinqMio\obj\Debug\net5.0\LinqMio.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\LinqMio\LinqMio\bin\Debug\net5.0\LinqMio.exe
+C:\Users\danid\source\repos\LinqMio\LinqMio\bin\Debug\net5.0\LinqMio.deps.json
+C:\Users\danid\source\repos\LinqMio\LinqMio\bin\Debug\net5.0\LinqMio.runtimeconfig.json
+C:\Users\danid\source\repos\LinqMio\LinqMio\bin\Debug\net5.0\LinqMio.runtimeconfig.dev.json
+C:\Users\danid\source\repos\LinqMio\LinqMio\bin\Debug\net5.0\LinqMio.dll
+C:\Users\danid\source\repos\LinqMio\LinqMio\bin\Debug\net5.0\ref\LinqMio.dll
+C:\Users\danid\source\repos\LinqMio\LinqMio\bin\Debug\net5.0\LinqMio.pdb
+C:\Users\danid\source\repos\LinqMio\LinqMio\obj\Debug\net5.0\LinqMio.dll
+C:\Users\danid\source\repos\LinqMio\LinqMio\obj\Debug\net5.0\ref\LinqMio.dll
+C:\Users\danid\source\repos\LinqMio\LinqMio\obj\Debug\net5.0\LinqMio.pdb
+C:\Users\danid\source\repos\LinqMio\LinqMio\obj\Debug\net5.0\LinqMio.genruntimeconfig.cache

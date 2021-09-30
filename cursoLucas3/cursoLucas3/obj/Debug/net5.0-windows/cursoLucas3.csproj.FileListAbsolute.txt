@@ -1,0 +1,17 @@
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\bin\Debug\net5.0-windows\cursoLucas3.exe
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\bin\Debug\net5.0-windows\cursoLucas3.deps.json
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\bin\Debug\net5.0-windows\cursoLucas3.runtimeconfig.json
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\bin\Debug\net5.0-windows\cursoLucas3.runtimeconfig.dev.json
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\bin\Debug\net5.0-windows\cursoLucas3.dll
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\bin\Debug\net5.0-windows\ref\cursoLucas3.dll
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\bin\Debug\net5.0-windows\cursoLucas3.pdb
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\cursoLucas3.Form1.resources
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\cursoLucas3.csproj.GenerateResource.cache
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\cursoLucas3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\cursoLucas3.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\cursoLucas3.AssemblyInfo.cs
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\cursoLucas3.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\cursoLucas3.dll
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\ref\cursoLucas3.dll
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\cursoLucas3.pdb
+C:\Users\danid\source\repos\cursoLucas3\cursoLucas3\obj\Debug\net5.0-windows\cursoLucas3.genruntimeconfig.cache

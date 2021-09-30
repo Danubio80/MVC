@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MenuListo.Models.IngredienteP>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Tu despensa</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nombre)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edita</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Detalles del producto</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Elimina un producto</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,10 @@
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\bin\Debug\calculodigitos.exe.config
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\bin\Debug\calculodigitos.exe
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\bin\Debug\calculodigitos.pdb
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\obj\Debug\calculodigitos.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\obj\Debug\calculodigitos.Form1.resources
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\obj\Debug\calculodigitos.Properties.Resources.resources
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\obj\Debug\calculodigitos.csproj.GenerateResource.cache
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\obj\Debug\calculodigitos.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\obj\Debug\calculodigitos.exe
+C:\Users\danid\source\repos\calculodigitos\calculodigitos\obj\Debug\calculodigitos.pdb

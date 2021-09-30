@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\obj\Debug\net5.0\Ejercicios2semana.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\obj\Debug\net5.0\Ejercicios2semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\obj\Debug\net5.0\Ejercicios2semana.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\obj\Debug\net5.0\Ejercicios2semana.AssemblyInfo.cs
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\obj\Debug\net5.0\Ejercicios2semana.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\bin\Debug\net5.0\Ejercicios2semana.exe
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\bin\Debug\net5.0\Ejercicios2semana.deps.json
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\bin\Debug\net5.0\Ejercicios2semana.runtimeconfig.json
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\bin\Debug\net5.0\Ejercicios2semana.runtimeconfig.dev.json
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\bin\Debug\net5.0\Ejercicios2semana.dll
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\bin\Debug\net5.0\ref\Ejercicios2semana.dll
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\bin\Debug\net5.0\Ejercicios2semana.pdb
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\obj\Debug\net5.0\Ejercicios2semana.dll
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\obj\Debug\net5.0\ref\Ejercicios2semana.dll
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\obj\Debug\net5.0\Ejercicios2semana.pdb
+C:\Users\danid\source\repos\Ejercicios2semana\Ejercicios2semana\obj\Debug\net5.0\Ejercicios2semana.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\ordenador\ordenador\obj\Debug\net5.0\ordenador.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\ordenador\ordenador\obj\Debug\net5.0\ordenador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\ordenador\ordenador\obj\Debug\net5.0\ordenador.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\ordenador\ordenador\obj\Debug\net5.0\ordenador.AssemblyInfo.cs
+C:\Users\danid\source\repos\ordenador\ordenador\obj\Debug\net5.0\ordenador.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\ordenador\ordenador\bin\Debug\net5.0\ordenador.exe
+C:\Users\danid\source\repos\ordenador\ordenador\bin\Debug\net5.0\ordenador.deps.json
+C:\Users\danid\source\repos\ordenador\ordenador\bin\Debug\net5.0\ordenador.runtimeconfig.json
+C:\Users\danid\source\repos\ordenador\ordenador\bin\Debug\net5.0\ordenador.runtimeconfig.dev.json
+C:\Users\danid\source\repos\ordenador\ordenador\bin\Debug\net5.0\ordenador.dll
+C:\Users\danid\source\repos\ordenador\ordenador\bin\Debug\net5.0\ref\ordenador.dll
+C:\Users\danid\source\repos\ordenador\ordenador\bin\Debug\net5.0\ordenador.pdb
+C:\Users\danid\source\repos\ordenador\ordenador\obj\Debug\net5.0\ordenador.dll
+C:\Users\danid\source\repos\ordenador\ordenador\obj\Debug\net5.0\ref\ordenador.dll
+C:\Users\danid\source\repos\ordenador\ordenador\obj\Debug\net5.0\ordenador.pdb
+C:\Users\danid\source\repos\ordenador\ordenador\obj\Debug\net5.0\ordenador.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\obj\Debug\net5.0\EjerciciosTotal.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\obj\Debug\net5.0\EjerciciosTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\obj\Debug\net5.0\EjerciciosTotal.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\obj\Debug\net5.0\EjerciciosTotal.AssemblyInfo.cs
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\obj\Debug\net5.0\EjerciciosTotal.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\bin\Debug\net5.0\EjerciciosTotal.exe
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\bin\Debug\net5.0\EjerciciosTotal.deps.json
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\bin\Debug\net5.0\EjerciciosTotal.runtimeconfig.json
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\bin\Debug\net5.0\EjerciciosTotal.runtimeconfig.dev.json
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\bin\Debug\net5.0\EjerciciosTotal.dll
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\bin\Debug\net5.0\ref\EjerciciosTotal.dll
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\bin\Debug\net5.0\EjerciciosTotal.pdb
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\obj\Debug\net5.0\EjerciciosTotal.dll
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\obj\Debug\net5.0\ref\EjerciciosTotal.dll
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\obj\Debug\net5.0\EjerciciosTotal.pdb
+C:\Users\danid\source\repos\EjerciciosTotal\EjerciciosTotal\obj\Debug\net5.0\EjerciciosTotal.genruntimeconfig.cache

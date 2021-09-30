@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\poo1\poo1\bin\Debug\net5.0\poo1.exe
+C:\Users\danid\source\repos\poo1\poo1\bin\Debug\net5.0\poo1.deps.json
+C:\Users\danid\source\repos\poo1\poo1\bin\Debug\net5.0\poo1.runtimeconfig.json
+C:\Users\danid\source\repos\poo1\poo1\bin\Debug\net5.0\poo1.runtimeconfig.dev.json
+C:\Users\danid\source\repos\poo1\poo1\bin\Debug\net5.0\poo1.dll
+C:\Users\danid\source\repos\poo1\poo1\bin\Debug\net5.0\ref\poo1.dll
+C:\Users\danid\source\repos\poo1\poo1\bin\Debug\net5.0\poo1.pdb
+C:\Users\danid\source\repos\poo1\poo1\obj\Debug\net5.0\poo1.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\poo1\poo1\obj\Debug\net5.0\poo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\poo1\poo1\obj\Debug\net5.0\poo1.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\poo1\poo1\obj\Debug\net5.0\poo1.AssemblyInfo.cs
+C:\Users\danid\source\repos\poo1\poo1\obj\Debug\net5.0\poo1.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\poo1\poo1\obj\Debug\net5.0\poo1.dll
+C:\Users\danid\source\repos\poo1\poo1\obj\Debug\net5.0\ref\poo1.dll
+C:\Users\danid\source\repos\poo1\poo1\obj\Debug\net5.0\poo1.pdb
+C:\Users\danid\source\repos\poo1\poo1\obj\Debug\net5.0\poo1.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\academia\aepi c#\aprende-c-sharp-master\linq-en-c-sharp-3\LinqPost3\bin\Debug\LinqPost2.exe
+C:\academia\aepi c#\aprende-c-sharp-master\linq-en-c-sharp-3\LinqPost3\bin\Debug\LinqPost2.pdb
+C:\academia\aepi c#\aprende-c-sharp-master\linq-en-c-sharp-3\LinqPost3\obj\x86\Debug\LinqPost3.csproj.CoreCompileInputs.cache
+C:\academia\aepi c#\aprende-c-sharp-master\linq-en-c-sharp-3\LinqPost3\obj\x86\Debug\LinqPost2.exe
+C:\academia\aepi c#\aprende-c-sharp-master\linq-en-c-sharp-3\LinqPost3\obj\x86\Debug\LinqPost2.pdb
+C:\academia\aepi c#\aprende-c-sharp-master\linq-en-c-sharp-3\LinqPost3\obj\x86\Debug\LinqPost3.csproj.AssemblyReference.cache

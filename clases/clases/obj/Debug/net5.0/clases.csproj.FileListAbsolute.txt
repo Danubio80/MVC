@@ -1,0 +1,16 @@
+C:\Users\danid\source\repos\clases\clases\bin\Debug\net5.0\clases.exe
+C:\Users\danid\source\repos\clases\clases\bin\Debug\net5.0\clases.deps.json
+C:\Users\danid\source\repos\clases\clases\bin\Debug\net5.0\clases.runtimeconfig.json
+C:\Users\danid\source\repos\clases\clases\bin\Debug\net5.0\clases.runtimeconfig.dev.json
+C:\Users\danid\source\repos\clases\clases\bin\Debug\net5.0\clases.dll
+C:\Users\danid\source\repos\clases\clases\bin\Debug\net5.0\ref\clases.dll
+C:\Users\danid\source\repos\clases\clases\bin\Debug\net5.0\clases.pdb
+C:\Users\danid\source\repos\clases\clases\obj\Debug\net5.0\clases.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\clases\clases\obj\Debug\net5.0\clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\clases\clases\obj\Debug\net5.0\clases.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\clases\clases\obj\Debug\net5.0\clases.AssemblyInfo.cs
+C:\Users\danid\source\repos\clases\clases\obj\Debug\net5.0\clases.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\clases\clases\obj\Debug\net5.0\clases.dll
+C:\Users\danid\source\repos\clases\clases\obj\Debug\net5.0\ref\clases.dll
+C:\Users\danid\source\repos\clases\clases\obj\Debug\net5.0\clases.pdb
+C:\Users\danid\source\repos\clases\clases\obj\Debug\net5.0\clases.genruntimeconfig.cache

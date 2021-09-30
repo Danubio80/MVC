@@ -1,0 +1,15 @@
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\bin\Debug\net5.0\ejemplofinnally.exe
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\bin\Debug\net5.0\ejemplofinnally.deps.json
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\bin\Debug\net5.0\ejemplofinnally.runtimeconfig.json
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\bin\Debug\net5.0\ejemplofinnally.runtimeconfig.dev.json
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\bin\Debug\net5.0\ejemplofinnally.dll
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\bin\Debug\net5.0\ref\ejemplofinnally.dll
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\bin\Debug\net5.0\ejemplofinnally.pdb
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\obj\Debug\net5.0\ejemplofinnally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\obj\Debug\net5.0\ejemplofinnally.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\obj\Debug\net5.0\ejemplofinnally.AssemblyInfo.cs
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\obj\Debug\net5.0\ejemplofinnally.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\obj\Debug\net5.0\ejemplofinnally.dll
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\obj\Debug\net5.0\ref\ejemplofinnally.dll
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\obj\Debug\net5.0\ejemplofinnally.pdb
+C:\Users\danid\source\repos\ejemplofinnally\ejemplofinnally\obj\Debug\net5.0\ejemplofinnally.genruntimeconfig.cache
